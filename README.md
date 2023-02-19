@@ -5,6 +5,8 @@ What is it for? It is used to merge a large number of references in a simple way
 This is my first program posted on Github. If you have any questions related to developing a new program or creating another one with a good idea, I am open to discussion.
 
 Folder image:
+________________________________________________________________________________________________
+
 <img src="https://sun9-13.userapi.com/impg/eQeu8beo5yShHSfLnsVG5s233E47UHyZO-UyGw/WpksKjOh1y0.jpg?size=764x298&quality=96&sign=9425609c39d6b3caf9d23fcdf0b35eec&type=album" alt="Image description">
 
 train.py coding:
