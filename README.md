@@ -1,6 +1,6 @@
 This program merges all images located in the images folder. When the start.bat file is clicked, the program runs, and the merged result will be in the same folder as start.bat, named result.
 
-What is it for? It is used to merge a large number of references in a simple way without resorting to other software.
+What is it for? It is used to merge a large number of references in a simple way without resorting to other software...
 
 This is my first program posted on Github. If you have any questions related to developing a new program or creating another one with a good idea, I am open to discussion.
 
